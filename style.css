@@ -1,0 +1,58 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+.h3{
+     font-size: 36px;
+     font-weight: 300;
+}
+.legend{
+     font-size: 35px;
+     font-weight: 200;
+}
+input{
+     width: 100%;
+}
+.btn{
+     background-color: rgb(27, 201, 201);  
+     margin-left: 24%;
+  
+}
+input:hover{
+     border:1px solid rgb(27, 201, 201);
+     transition: 0.5ms;
+}
+.form{
+     border:1px solid rgb(193, 193, 62);
+     padding: 25px;
+
+}
+.section{
+     /* background:rgb(27, 201, 201); */
+     height: 550px;
+    
+}
+.liste ul li{
+     list-style: none;
+   
+}
+.icon i{
+     /* background-color:rgb(27, 201, 201); */
+     padding: 10px;
+
+}
+.icon{
+     display: flex;
+     justify-content: space-around;
+    
+
+}
+a{
+     text-decoration: none;
+     color: black;
+}
+.para{
+     font-size: 35px;
+     font-weight: 300;
+}
+
